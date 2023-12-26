@@ -1,0 +1,14 @@
+{
+  "name": "bento-grid",
+  "version": "1.0.0",
+  "description": "Una practica para aprender a hacer bento grid",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AN_code",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "1.69.5"
+  }
+}
